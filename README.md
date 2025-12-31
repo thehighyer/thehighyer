@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thehighyer
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Product Management
 - 🌱 I’m currently working as a Quality Analyst
-- 💞️ I’m looking to learn about SQL, Python, R & Data Analysis
+- 💞️ I’m looking to learn more about SQL, Python & Data Analysis
 - 📫 You can reach me on Instagram @imsrivatsans
 
 <!---
